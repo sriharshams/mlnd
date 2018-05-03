@@ -11,6 +11,8 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [pandas profiling](https://github.com/pandas-profiling/pandas-profiling)
+- [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn)
+- [xgboost](http://xgboost.readthedocs.io/en/latest/)
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
@@ -33,6 +35,9 @@ jupyter notebook lending_club_loan_paid.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
+
+### View
+Alternatively file lending_club_loan_paid.html can be opened in your browser.
 
 ### Data
 
